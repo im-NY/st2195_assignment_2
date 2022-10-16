@@ -11,4 +11,3 @@ write.csv(scraped_table, file = 'cars.csv', row.names=FALSE)
 # Read the csv
 cars <- read.csv('cars.csv')
 cars
-#F
