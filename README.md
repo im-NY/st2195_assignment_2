@@ -10,12 +10,18 @@ Note that it is advised to use the packages rvest (R) and BeautifulSoup (Python)
 Hint: For more information on rvest, you may want to have a look at https://rvest.tidyverse.org/articles/harvesting -the-web.html
 
 Additional Notes:
+
 • Task clarifications
 o Look for example cars table in CSV format from Wikipedia URL (see below)
 
+![Screenshot 2022-10-16 115133](https://user-images.githubusercontent.com/113455029/196017091-1da9381a-7817-4928-b62b-7c1151d03dbb.png)
+
 o Scrape the data and write to a file in CSV format
+
 o Read the CSV file to a data frame to verify that it was correctly saved 
 
 Hints:
+
 • Programming in R
+
 o You may also refer to this video link on YouTube: How to find the XPath to scrape tables in rvest - YouTube
